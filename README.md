@@ -3,4 +3,6 @@ The purpose of this script is to capture a video stream from the webcam, apply a
 - sepia
 - red color overlay
 - color inversion
-- circular clur
+- circular blur
+
+The script uses OpenCV, NumPy and Python 3.7.
